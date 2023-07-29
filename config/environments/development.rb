@@ -70,4 +70,4 @@ Rails.application.configure do
 
   # 以下を追加することで、クラウドIDEでローカルWebサーバーに接続可能になる
   config.hosts.clear
-endf
+end
